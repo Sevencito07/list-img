@@ -29,8 +29,8 @@ button{
     flex-wrap: wrap;
 }
 img{
-    width: 95%;
-    height: 95%;
+    width: 90%;
+    height: 18rem;
     border-radius: 10px;
     
 }
@@ -40,7 +40,8 @@ img{
     border-radius: 20px;
     border-color: rgb(234, 7, 113);
     margin: 5rem;
-    width: 20rem;
+    width: 18rem;
+    height: 28rem;
     background-color: rgb(197, 28, 223);
     text-align: center;
     box-shadow: 10px 10px 60px 3px inset rgba(0, 0, 0, 0.341);
